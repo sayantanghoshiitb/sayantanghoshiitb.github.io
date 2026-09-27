@@ -1,0 +1,3 @@
+[build]
+  publish = "dist"
+# Build locally with Python, then deploy dist. No WordPress server is needed.

@@ -1,0 +1,701 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Portfolio",
+      "kind": "home",
+      "file": "ad55120067cdfa7b.html",
+      "imageCount": 15,
+      "noindex": false
+    },
+    {
+      "path": "/2015/01/21/love-from-lavasa/",
+      "title": "Love From Lavasa",
+      "kind": "post",
+      "file": "8926918476e1fe58.html",
+      "imageCount": 13,
+      "noindex": false
+    },
+    {
+      "path": "/2015/01/27/marching-through-manikgad/",
+      "title": "Marching Through Manikgad",
+      "kind": "post",
+      "file": "4592771646da776d.html",
+      "imageCount": 14,
+      "noindex": false
+    },
+    {
+      "path": "/2015/02/02/all-hail-alibaug/",
+      "title": "All Hail Alibaug",
+      "kind": "post",
+      "file": "f8774b0c7f7eeecb.html",
+      "imageCount": 24,
+      "noindex": false
+    },
+    {
+      "path": "/2015/03/02/godspeed-goa/",
+      "title": "Godspeed Goa",
+      "kind": "post",
+      "file": "afa1449a2cad7784.html",
+      "imageCount": 61,
+      "noindex": false
+    },
+    {
+      "path": "/2015/10/24/kanheri-kickoff/",
+      "title": "Kanheri Kickoff",
+      "kind": "post",
+      "file": "540315e06beac4a3.html",
+      "imageCount": 7,
+      "noindex": false
+    },
+    {
+      "path": "/2016/06/19/230/",
+      "title": "Cooling Point Coorg",
+      "kind": "post",
+      "file": "ad1d921bdddd9b08.html",
+      "imageCount": 31,
+      "noindex": false
+    },
+    {
+      "path": "/2016/12/18/caving-in-elephanta-cavern/",
+      "title": "Caving In Elephanta Cavern",
+      "kind": "post",
+      "file": "f00e3197a3495469.html",
+      "imageCount": 8,
+      "noindex": false
+    },
+    {
+      "path": "/2017/03/13/goa-gospels/",
+      "title": "Goa Gospels",
+      "kind": "post",
+      "file": "c1cc3c94dbf9a413.html",
+      "imageCount": 32,
+      "noindex": false
+    },
+    {
+      "path": "/2018/04/14/andaman-anecdote/",
+      "title": "Andaman Anecdote",
+      "kind": "post",
+      "file": "d737fd4c0e46e8f7.html",
+      "imageCount": 31,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/amrita-2/",
+      "title": "Amrita",
+      "kind": "post",
+      "file": "ed13e14dc36de58f.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/angel/",
+      "title": "Angel",
+      "kind": "post",
+      "file": "e3d116d58099b0f1.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/atlantic/",
+      "title": "Atlantic",
+      "kind": "post",
+      "file": "9aaf4779fa7f1bc1.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/bridge/",
+      "title": "Bridge",
+      "kind": "post",
+      "file": "731dc269bfae6a66.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/butterfly/",
+      "title": "butterfly",
+      "kind": "post",
+      "file": "1458223637fc5e33.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/cycle/",
+      "title": "Cycle",
+      "kind": "post",
+      "file": "019d712b16d9c65a.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/danbo/",
+      "title": "Danbo",
+      "kind": "post",
+      "file": "0f59264f5c61c441.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/dog/",
+      "title": "Dog",
+      "kind": "post",
+      "file": "17954c64a25fe43a.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/galaxy/",
+      "title": "Galaxy",
+      "kind": "post",
+      "file": "6e487aaba22b57bb.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/kestrel/",
+      "title": "Babbler",
+      "kind": "post",
+      "file": "1d1b5f53e3eb71dd.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/kolkata-fashion/",
+      "title": "Kolkata Fashion",
+      "kind": "post",
+      "file": "c55dc2653ce39433.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/meryl/",
+      "title": "Meryl",
+      "kind": "post",
+      "file": "3870f0fe1e6a0d14.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/milon-2/",
+      "title": "Milon",
+      "kind": "post",
+      "file": "15bbfe3f6979aafc.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/nilapratim/",
+      "title": "Nilapratim",
+      "kind": "post",
+      "file": "32060e637d0fba19.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2018/09/13/palak/",
+      "title": "Palak",
+      "kind": "post",
+      "file": "02a42c5c553f519e.html",
+      "imageCount": 1,
+      "noindex": false
+    },
+    {
+      "path": "/2020/01/04/high-on-hampi/",
+      "title": "High on Hampi",
+      "kind": "post",
+      "file": "dbc2c785ed084f64.html",
+      "imageCount": 56,
+      "noindex": false
+    },
+    {
+      "path": "/2020/07/11/adventure-spiti/",
+      "title": "Adventure Spiti",
+      "kind": "post",
+      "file": "adcd210ad83e3485.html",
+      "imageCount": 28,
+      "noindex": false
+    },
+    {
+      "path": "/2021/01/27/bolpur-bucks/",
+      "title": "Bolpur Bucks",
+      "kind": "post",
+      "file": "ffc3f51a2eb95389.html",
+      "imageCount": 20,
+      "noindex": false
+    },
+    {
+      "path": "/2021/05/14/dabbling-daman/",
+      "title": "Dabbling Daman",
+      "kind": "post",
+      "file": "74106b51f1cc2436.html",
+      "imageCount": 47,
+      "noindex": false
+    },
+    {
+      "path": "/2021/12/05/terra-tadoba/",
+      "title": "Terra Tadoba",
+      "kind": "post",
+      "file": "5cbb5250b1fec85a.html",
+      "imageCount": 39,
+      "noindex": false
+    },
+    {
+      "path": "/2022/11/28/darjeeling-diaries/",
+      "title": "Darjeeling Diaries",
+      "kind": "post",
+      "file": "ce2e7ec033d3ede6.html",
+      "imageCount": 30,
+      "noindex": false
+    },
+    {
+      "path": "/2023/06/11/ascending-to-arunachal/",
+      "title": "Ascending to Arunachal",
+      "kind": "post",
+      "file": "d3f7cb9dcea1598e.html",
+      "imageCount": 52,
+      "noindex": false
+    },
+    {
+      "path": "/2023/12/10/uae-utopia/",
+      "title": "UAE Utopia",
+      "kind": "post",
+      "file": "3666324b50c7527c.html",
+      "imageCount": 63,
+      "noindex": false
+    },
+    {
+      "path": "/2024/06/24/weekend-at-ooty/",
+      "title": "Weekend at Ooty",
+      "kind": "post",
+      "file": "dd4ce2af63de4cb7.html",
+      "imageCount": 68,
+      "noindex": false
+    },
+    {
+      "path": "/2024/12/14/bangkok-and-beyond/",
+      "title": "Bangkok And Beyond",
+      "kind": "post",
+      "file": "f06970b5b3615895.html",
+      "imageCount": 82,
+      "noindex": false
+    },
+    {
+      "path": "/about-us/",
+      "title": "About Us",
+      "kind": "page",
+      "file": "b244e737ad74a10f.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/about/",
+      "title": "About",
+      "kind": "page",
+      "file": "fca703beef1880fb.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/alternate-sidebar-page/",
+      "title": "Alternate Sidebar Page",
+      "kind": "page",
+      "file": "07993e0c220c2526.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/author/admin/",
+      "title": "Bangkok And Beyond",
+      "kind": "page",
+      "file": "39aca9e94d700c73.html",
+      "imageCount": 485,
+      "noindex": true
+    },
+    {
+      "path": "/blog-2/",
+      "title": "Blog",
+      "kind": "page",
+      "file": "e19dd8397272d2b4.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/blog/",
+      "title": "Blog",
+      "kind": "page",
+      "file": "6c94f1f4a8ce01ec.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/cart/",
+      "title": "Cart",
+      "kind": "page",
+      "file": "b06359fcd5a0f7e0.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/category/gallery/",
+      "title": "Category/Gallery",
+      "kind": "page",
+      "file": "e67ceeafb570c69e.html",
+      "imageCount": 10,
+      "noindex": true
+    },
+    {
+      "path": "/category/travel-blog/",
+      "title": "Weekend at Ooty",
+      "kind": "page",
+      "file": "669746531d8c612d.html",
+      "imageCount": 434,
+      "noindex": true
+    },
+    {
+      "path": "/category/uncategorized/",
+      "title": "Bangkok And Beyond",
+      "kind": "page",
+      "file": "f74cf6d4b79ca314.html",
+      "imageCount": 82,
+      "noindex": true
+    },
+    {
+      "path": "/checkout/",
+      "title": "Checkout",
+      "kind": "page",
+      "file": "38db235f453878bc.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/comic-con-mumbai-india/",
+      "title": "Comic Con India",
+      "kind": "page",
+      "file": "25b7a7db1c421053.html",
+      "imageCount": 0,
+      "noindex": false
+    },
+    {
+      "path": "/contact-us/",
+      "title": "Contact Us",
+      "kind": "page",
+      "file": "f8c606f8eb23317e.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/contact/",
+      "title": "Contact",
+      "kind": "page",
+      "file": "ddd76e14e1a24454.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/first-child/",
+      "title": "First Child",
+      "kind": "page",
+      "file": "7f65e53229b35c1d.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/front-page/",
+      "title": "Front Page",
+      "kind": "page",
+      "file": "2e8789bcfafa9435.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/full-width-gallery/",
+      "title": "Fullwidth Gallery",
+      "kind": "page",
+      "file": "778dbe23d0387cdc.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/full-width-page/",
+      "title": "Full Width Page",
+      "kind": "page",
+      "file": "82397877e1a3ae1a.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/fullwidth-page/",
+      "title": "Fullwidth Page",
+      "kind": "page",
+      "file": "3c89e92b1ea67ecb.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/gallery-page/",
+      "title": "Gallery Page",
+      "kind": "page",
+      "file": "7dfbfd5fbcca3e3f.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/grid-page/",
+      "title": "Grid Page",
+      "kind": "page",
+      "file": "231a226ed0cbb3ae.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/home-2/",
+      "title": "Home",
+      "kind": "page",
+      "file": "d355bfa7e556523a.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/left-sidebar/",
+      "title": "Left Sidebar",
+      "kind": "page",
+      "file": "f629773005114ea7.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/my-account/",
+      "title": "My account",
+      "kind": "page",
+      "file": "af437692de8dfb39.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/page-templates/",
+      "title": "Page Templates",
+      "kind": "page",
+      "file": "e7ea83917f3e3547.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/page-templates/default-page/",
+      "title": "Default Page",
+      "kind": "page",
+      "file": "d9b1c2380f25458d.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/sample-page-2/",
+      "title": "Sample Page",
+      "kind": "page",
+      "file": "7e4cd67726cb4966.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/sample-page/",
+      "title": "Home Page",
+      "kind": "page",
+      "file": "16265687b07fba1b.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/saturday-night-market-goa/",
+      "title": "Saturday Night Market",
+      "kind": "page",
+      "file": "c79fb704127ce9e3.html",
+      "imageCount": 0,
+      "noindex": false
+    },
+    {
+      "path": "/second-child/",
+      "title": "Second Child",
+      "kind": "page",
+      "file": "6ba51a7c287b597d.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/",
+      "title": "Videos",
+      "kind": "page",
+      "file": "a33405dadeb66e8b.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/accordions/",
+      "title": "Accordions",
+      "kind": "page",
+      "file": "0634b209b51a3450.html",
+      "imageCount": 1,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/buttons/",
+      "title": "Buttons",
+      "kind": "page",
+      "file": "77f9142014eb57d1.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/columns/",
+      "title": "Columns",
+      "kind": "page",
+      "file": "3f225f3b11d27dd9.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/dividers/",
+      "title": "Dividers",
+      "kind": "page",
+      "file": "fc20f8931fb02faa.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/lightboxes/",
+      "title": "Lightboxes",
+      "kind": "page",
+      "file": "6f56786c9a1c76bf.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/posts/",
+      "title": "Posts",
+      "kind": "page",
+      "file": "5589ad784cae6cbc.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/quotes/",
+      "title": "Quotes",
+      "kind": "page",
+      "file": "80c6b14c9bfc1bea.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/sliders-2/",
+      "title": "Sliders",
+      "kind": "page",
+      "file": "94dc935c14023c5d.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/sliders/",
+      "title": "Sliders",
+      "kind": "page",
+      "file": "85a6dda3800b1f5a.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/tables/",
+      "title": "Tables",
+      "kind": "page",
+      "file": "e9da8b16fc95c746.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shortcodes/tabs/",
+      "title": "Tabs",
+      "kind": "page",
+      "file": "64fd3e0542be973b.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/shorts/",
+      "title": "Shorts",
+      "kind": "page",
+      "file": "d059824e79f05f2e.html",
+      "imageCount": 0,
+      "noindex": false
+    },
+    {
+      "path": "/third-child/",
+      "title": "Third Child",
+      "kind": "page",
+      "file": "95eac4e6cf39dfc3.html",
+      "imageCount": 0,
+      "noindex": true
+    },
+    {
+      "path": "/travel-films/",
+      "title": "Travelogues",
+      "kind": "page",
+      "file": "052f0b602f03ec1b.html",
+      "imageCount": 0,
+      "noindex": false
+    },
+    {
+      "path": "/type/image/",
+      "title": "Danbo",
+      "kind": "page",
+      "file": "30fb384b52f4bc25.html",
+      "imageCount": 10,
+      "noindex": true
+    },
+    {
+      "path": "/author/admin/page/2/",
+      "title": "Danbo",
+      "kind": "page",
+      "file": "93592d155122653e.html",
+      "imageCount": 10,
+      "noindex": true
+    },
+    {
+      "path": "/category/gallery/page/2/",
+      "title": "Category/Gallery/Page/2",
+      "kind": "page",
+      "file": "29c366a7dcf625b8.html",
+      "imageCount": 5,
+      "noindex": true
+    },
+    {
+      "path": "/category/travel-blog/page/2/",
+      "title": "Goa Gospels",
+      "kind": "page",
+      "file": "f5849bde66f8918e.html",
+      "imageCount": 190,
+      "noindex": true
+    },
+    {
+      "path": "/type/image/page/2/",
+      "title": "Bridge",
+      "kind": "page",
+      "file": "5b27d58a581826fe.html",
+      "imageCount": 5,
+      "noindex": true
+    },
+    {
+      "path": "/author/admin/page/3/",
+      "title": "Bridge",
+      "kind": "page",
+      "file": "91df022820c0d9c5.html",
+      "imageCount": 114,
+      "noindex": true
+    },
+    {
+      "path": "/author/admin/page/4/",
+      "title": "Godspeed Goa",
+      "kind": "page",
+      "file": "069e9d80fe6143a5.html",
+      "imageCount": 112,
+      "noindex": true
+    }
+  ],
+  "warnings": []
+}

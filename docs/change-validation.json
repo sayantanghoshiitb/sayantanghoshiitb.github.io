@@ -1,0 +1,23 @@
+{
+  "legacyImageAliases": 498,
+  "publishedBytes": 834615704,
+  "publicationPageRemoved": true,
+  "footerYear": 2026,
+  "monthlyWorkflowPrepared": true,
+  "remoteWorkflowExecuted": false,
+  "browserVerified": [
+    "photo toggle 285/643",
+    "scroll defers images",
+    "India zoom",
+    "West Bengal filter",
+    "back/world controls",
+    "Spain Madrid filter",
+    "destination header and byline removal"
+  ],
+  "homepageLoader": {
+    "imageCount": 15,
+    "allImagesEager": true,
+    "decodeCompletionVerified": true,
+    "failedImagesDoNotBlock": true
+  }
+}
