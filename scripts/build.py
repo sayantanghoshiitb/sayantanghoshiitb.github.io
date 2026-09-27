@@ -123,8 +123,8 @@ def wildlife():
  seen=len(species) if complete else '—';photos=sum(bool(b.get('photo')) for b in species)
  stats=[(seen,'Species seen'),(photos,'Species photographed'),(len(countries),'Countries')]
  st=''.join(f'<div class="wild-stat"><strong>{v}</strong><span>{label}</span></div>' for v,label in stats)
- global_total=11000;global_percent=min(100,(len(species)/global_total)*100)
- global_progress=f'<section class="global-progress" aria-label="Global bird species progress"><div class="global-progress-copy"><span>Progress Tracker</span><strong>{len(species):,} <small>/ approximately {global_total:,}</small></strong></div><div class="global-progress-track" role="progressbar" aria-label="Species seen out of approximately 11,000 bird species" aria-valuemin="0" aria-valuemax="{global_total}" aria-valuenow="{len(species)}"><span style="width:{global_percent:.2f}%"></span></div><p>{global_percent:.1f}% recorded</p></section>'
+ global_total=11167;global_percent=min(100,(len(species)/global_total)*100)
+ global_progress=f'<section class="global-progress" aria-label="Global bird species progress"><div class="global-progress-copy"><span>Progress Tracker</span><strong>{len(species):,} <small>/ {global_total:,}</small></strong></div><div class="global-progress-track" role="progressbar" aria-label="Species seen out of {global_total:,} bird species" aria-valuemin="0" aria-valuemax="{global_total}" aria-valuenow="{len(species)}"><span style="width:{global_percent:.2f}%"></span></div><p>{global_percent:.1f}% recorded</p></section>'
  cl=''.join(f'<li><button data-country="{c["code"]}"><span>{esc(names.get(c["code"],c["code"]))}</span><b>{c["count"]}</b></button></li>' for c in countries)
  opts=''.join(f'<option value="{c["code"]}">{esc(names.get(c["code"],c["code"]))}</option>' for c in countries);cards=[]
  for b in species:
