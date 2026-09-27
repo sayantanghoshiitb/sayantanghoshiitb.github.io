@@ -10,9 +10,9 @@ function enhanceSelect(select,label){
  function open(){document.querySelectorAll('.bird-select-menu').forEach(other=>{if(other!==menu){other.hidden=true;other.previousElementSibling.setAttribute('aria-expanded','false');}});menu.hidden=false;trigger.setAttribute('aria-expanded','true');menu.querySelector('[aria-selected="true"]')?.focus();}
  trigger.addEventListener('click',()=>menu.hidden?open():close());trigger.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp','Enter',' '].includes(e.key)){e.preventDefault();open();}if(e.key==='Escape')close();});
  menu.addEventListener('keydown',e=>{const items=[...menu.querySelectorAll('[role=option]')],i=items.indexOf(document.activeElement);if(e.key==='Escape'){e.preventDefault();close();trigger.focus();}else if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();items[(i+(e.key==='ArrowDown'?1:-1)+items.length)%items.length].focus();}else if(e.key==='Home'||e.key==='End'){e.preventDefault();items[e.key==='Home'?0:items.length-1].focus();}});
- select.addEventListener('change',refresh);document.addEventListener('click',e=>{if(!box.contains(e.target))close();});refresh();
+ select.addEventListener('change',refresh);document.addEventListener('click',e=>{if(!box.contains(e.target))close();});refresh();return refresh;
 }
-enhanceSelect(country,'Country filter');enhanceSelect(sort,'Sort birds');
+const refreshCountry=enhanceSelect(country,'Country filter');enhanceSelect(sort,'Sort birds');
 const cards=[...document.querySelectorAll('.bird-card')],map=document.querySelector('#bird-map');
 let selectedRegion='';
 const images=new IntersectionObserver(entries=>{for(const entry of entries){if(!entry.isIntersecting||entry.target.closest('[hidden]'))continue;const img=entry.target;img.src=img.dataset.src;images.unobserve(img);}}, {rootMargin:'350px'});
@@ -26,6 +26,7 @@ function filter(){
  }
  const photoCount=document.querySelector('#photo-count');
  if(photoCount)photoCount.textContent=`(${photoOnly.checked?cards.filter(card=>card.dataset.photo==='true').length:cards.length} species)`;
+ const visible=cards.filter(card=>!card.hidden).length;
  document.querySelector('#no-results').hidden=visible>0;
  document.querySelectorAll('[data-country]').forEach(el=>el.classList.toggle('selected',el.dataset.country===c));
  document.querySelectorAll('[data-region]').forEach(el=>el.classList.toggle('selected',el.dataset.region===selectedRegion));
@@ -46,7 +47,7 @@ function renderList(){
  if(!rows.length){const li=document.createElement('li');li.textContent='No regional totals available';list.append(li);}
 }
 function zoomCountry(code){
- country.value=code;selectedRegion='';
+ country.value=code;refreshCountry();selectedRegion='';
  document.querySelectorAll('.state-layer').forEach(layer=>layer.toggleAttribute('hidden',layer.dataset.mapCountry!==code));
  document.querySelector('#world-layer').classList.toggle('zoomed',Boolean(code));
  const layer=map.querySelector(`[data-map-country="${code}"]`),path=map.querySelector(`#world-layer [data-country="${code}"]`);
