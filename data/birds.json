@@ -2,9 +2,9 @@
   "profileId": "MjI5NzQ0MA",
   "contributorId": "2297440",
   "owner": "Sayantan Ghosh",
-  "lastCountrySync": "2026-09-27T16:12:05.963195+00:00",
+  "lastCountrySync": "2026-10-01T10:14:05.144167+00:00",
   "lastObservationSync": "2026-09-27T15:36:11.286694+00:00",
-  "lastPhotoSync": "2026-09-27T16:12:05.963195+00:00",
+  "lastPhotoSync": "2026-10-01T10:14:05.144167+00:00",
   "observationsComplete": true,
   "photoStatus": "public-api-snapshot",
   "countries": [
@@ -64,7 +64,7 @@
         "assetUrl": "https://macaulaylibrary.org/asset/501565161",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501565161/640",
         "credit": "Sayantan Ghosh",
-        "locationName": "Cape Town",
+        "locationName": "Boulders Beach",
         "countryCode": "ZA",
         "regionCode": "ZA-WC"
       }
@@ -90,7 +90,10 @@
         "assetId": "662738280",
         "assetUrl": "https://macaulaylibrary.org/asset/662738280",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738280/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -130,7 +133,10 @@
         "assetId": "662722162",
         "assetUrl": "https://macaulaylibrary.org/asset/662722162",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662722162/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sabari, Middle Andaman",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -170,7 +176,10 @@
         "assetId": "504293221",
         "assetUrl": "https://macaulaylibrary.org/asset/504293221",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504293221/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -227,7 +236,10 @@
         "assetId": "532326161",
         "assetUrl": "https://macaulaylibrary.org/asset/532326161",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532326161/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jalapahar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -285,7 +297,10 @@
         "assetId": "531114691",
         "assetUrl": "https://macaulaylibrary.org/asset/531114691",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531114691/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Nava Talav",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -309,7 +324,10 @@
         "assetId": "530383481",
         "assetUrl": "https://macaulaylibrary.org/asset/530383481",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383481/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -332,7 +350,10 @@
         "assetId": "531745841",
         "assetUrl": "https://macaulaylibrary.org/asset/531745841",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745841/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -389,7 +410,10 @@
         "assetId": "531082651",
         "assetUrl": "https://macaulaylibrary.org/asset/531082651",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531082651/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -429,7 +453,10 @@
         "assetId": "501543271",
         "assetUrl": "https://macaulaylibrary.org/asset/501543271",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501543271/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -503,7 +530,10 @@
         "assetId": "531779401",
         "assetUrl": "https://macaulaylibrary.org/asset/531779401",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531779401/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -526,7 +556,10 @@
         "assetId": "531746241",
         "assetUrl": "https://macaulaylibrary.org/asset/531746241",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531746241/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -549,7 +582,10 @@
         "assetId": "612325478",
         "assetUrl": "https://macaulaylibrary.org/asset/612325478",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325478/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -623,7 +659,10 @@
         "assetId": "501543531",
         "assetUrl": "https://macaulaylibrary.org/asset/501543531",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501543531/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -716,7 +755,10 @@
         "assetId": "530375381",
         "assetUrl": "https://macaulaylibrary.org/asset/530375381",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530375381/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -774,7 +816,10 @@
         "assetId": "530375131",
         "assetUrl": "https://macaulaylibrary.org/asset/530375131",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530375131/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -798,7 +843,10 @@
         "assetId": "533893741",
         "assetUrl": "https://macaulaylibrary.org/asset/533893741",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533893741/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -838,7 +886,10 @@
         "assetId": "531777661",
         "assetUrl": "https://macaulaylibrary.org/asset/531777661",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777661/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -895,7 +946,10 @@
         "assetId": "618878115",
         "assetUrl": "https://macaulaylibrary.org/asset/618878115",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878115/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -1037,7 +1091,10 @@
         "assetId": "531745921",
         "assetUrl": "https://macaulaylibrary.org/asset/531745921",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745921/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1060,7 +1117,10 @@
         "assetId": "618877517",
         "assetUrl": "https://macaulaylibrary.org/asset/618877517",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877517/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -1083,7 +1143,10 @@
         "assetId": "504268301",
         "assetUrl": "https://macaulaylibrary.org/asset/504268301",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504268301/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Chintamani Kar Bird Sanctuary (CKBS)",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1106,7 +1169,10 @@
         "assetId": "612324570",
         "assetUrl": "https://macaulaylibrary.org/asset/612324570",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612324570/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -1129,7 +1195,10 @@
         "assetId": "530383821",
         "assetUrl": "https://macaulaylibrary.org/asset/530383821",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383821/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1187,7 +1256,10 @@
         "assetId": "501544491",
         "assetUrl": "https://macaulaylibrary.org/asset/501544491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501544491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -1312,7 +1384,10 @@
         "assetId": "531856411",
         "assetUrl": "https://macaulaylibrary.org/asset/531856411",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531856411/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jhalana Safari Park",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -1336,7 +1411,10 @@
         "assetId": "531115451",
         "assetUrl": "https://macaulaylibrary.org/asset/531115451",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531115451/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Nava Talav",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -1462,7 +1540,10 @@
         "assetId": "532327451",
         "assetUrl": "https://macaulaylibrary.org/asset/532327451",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532327451/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gangamaya Park",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1502,7 +1583,10 @@
         "assetId": "530383531",
         "assetUrl": "https://macaulaylibrary.org/asset/530383531",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383531/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1525,7 +1609,10 @@
         "assetId": "504299661",
         "assetUrl": "https://macaulaylibrary.org/asset/504299661",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504299661/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1582,7 +1669,10 @@
         "assetId": "662738308",
         "assetUrl": "https://macaulaylibrary.org/asset/662738308",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738308/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -1605,7 +1695,10 @@
         "assetId": "504293571",
         "assetUrl": "https://macaulaylibrary.org/asset/504293571",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504293571/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1662,7 +1755,10 @@
         "assetId": "531779111",
         "assetUrl": "https://macaulaylibrary.org/asset/531779111",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531779111/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -1719,7 +1815,10 @@
         "assetId": "531082841",
         "assetUrl": "https://macaulaylibrary.org/asset/531082841",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531082841/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1742,7 +1841,10 @@
         "assetId": "504268331",
         "assetUrl": "https://macaulaylibrary.org/asset/504268331",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504268331/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Chintamani Kar Bird Sanctuary (CKBS)",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1782,7 +1884,10 @@
         "assetId": "531777261",
         "assetUrl": "https://macaulaylibrary.org/asset/531777261",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777261/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -1806,7 +1911,10 @@
         "assetId": "532314681",
         "assetUrl": "https://macaulaylibrary.org/asset/532314681",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532314681/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Mahananda WLS--Latpanchar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -1847,7 +1955,10 @@
         "assetId": "531780231",
         "assetUrl": "https://macaulaylibrary.org/asset/531780231",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531780231/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad--CIAL Signal Station",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -1887,7 +1998,10 @@
         "assetId": "531776231",
         "assetUrl": "https://macaulaylibrary.org/asset/531776231",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531776231/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -1910,7 +2024,10 @@
         "assetId": "531777451",
         "assetUrl": "https://macaulaylibrary.org/asset/531777451",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777451/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -2001,7 +2118,10 @@
         "assetId": "618877694",
         "assetUrl": "https://macaulaylibrary.org/asset/618877694",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877694/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -2041,7 +2161,10 @@
         "assetId": "501567241",
         "assetUrl": "https://macaulaylibrary.org/asset/501567241",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501567241/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Kirstenbosch Botanical Garden",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -2064,7 +2187,10 @@
         "assetId": "501567451",
         "assetUrl": "https://macaulaylibrary.org/asset/501567451",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501567451/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Kirstenbosch Botanical Garden",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -2087,7 +2213,10 @@
         "assetId": "501565081",
         "assetUrl": "https://macaulaylibrary.org/asset/501565081",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501565081/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Boulders Beach",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -2110,7 +2239,10 @@
         "assetId": "501567311",
         "assetUrl": "https://macaulaylibrary.org/asset/501567311",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501567311/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Kirstenbosch Botanical Garden",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -2236,7 +2368,10 @@
         "assetId": "533886431",
         "assetUrl": "https://macaulaylibrary.org/asset/533886431",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533886431/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -2260,7 +2395,10 @@
         "assetId": "618877738",
         "assetUrl": "https://macaulaylibrary.org/asset/618877738",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877738/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -2351,7 +2489,10 @@
         "assetId": "662738254",
         "assetUrl": "https://macaulaylibrary.org/asset/662738254",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738254/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -2408,7 +2549,10 @@
         "assetId": "533892011",
         "assetUrl": "https://macaulaylibrary.org/asset/533892011",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533892011/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -2466,7 +2610,10 @@
         "assetId": "504293751",
         "assetUrl": "https://macaulaylibrary.org/asset/504293751",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504293751/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2489,7 +2636,10 @@
         "assetId": "504293471",
         "assetUrl": "https://macaulaylibrary.org/asset/504293471",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504293471/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2597,7 +2747,10 @@
         "assetId": "531112201",
         "assetUrl": "https://macaulaylibrary.org/asset/531112201",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112201/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -2637,7 +2790,10 @@
         "assetId": "530811321",
         "assetUrl": "https://macaulaylibrary.org/asset/530811321",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530811321/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2678,7 +2834,10 @@
         "assetId": "504299401",
         "assetUrl": "https://macaulaylibrary.org/asset/504299401",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504299401/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2701,7 +2860,10 @@
         "assetId": "531776501",
         "assetUrl": "https://macaulaylibrary.org/asset/531776501",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531776501/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -2724,7 +2886,10 @@
         "assetId": "531746161",
         "assetUrl": "https://macaulaylibrary.org/asset/531746161",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531746161/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2764,7 +2929,10 @@
         "assetId": "530810511",
         "assetUrl": "https://macaulaylibrary.org/asset/530810511",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810511/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2787,7 +2955,10 @@
         "assetId": "533893641",
         "assetUrl": "https://macaulaylibrary.org/asset/533893641",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533893641/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -2827,7 +2998,10 @@
         "assetId": "618877788",
         "assetUrl": "https://macaulaylibrary.org/asset/618877788",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877788/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -2853,7 +3027,10 @@
         "assetId": "612325491",
         "assetUrl": "https://macaulaylibrary.org/asset/612325491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -2877,7 +3054,10 @@
         "assetId": "531111901",
         "assetUrl": "https://macaulaylibrary.org/asset/531111901",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531111901/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -2917,7 +3097,10 @@
         "assetId": "530383851",
         "assetUrl": "https://macaulaylibrary.org/asset/530383851",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383851/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -2940,7 +3123,10 @@
         "assetId": "531123621",
         "assetUrl": "https://macaulaylibrary.org/asset/531123621",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531123621/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Madrid--Parque El Retiro",
+        "countryCode": "ES",
+        "regionCode": "ES-MD"
       }
     },
     {
@@ -2963,7 +3149,10 @@
         "assetId": "533857951",
         "assetUrl": "https://macaulaylibrary.org/asset/533857951",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533857951/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -2986,7 +3175,10 @@
         "assetId": "612325356",
         "assetUrl": "https://macaulaylibrary.org/asset/612325356",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325356/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -3009,7 +3201,10 @@
         "assetId": "530810501",
         "assetUrl": "https://macaulaylibrary.org/asset/530810501",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810501/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -3032,7 +3227,10 @@
         "assetId": "531779101",
         "assetUrl": "https://macaulaylibrary.org/asset/531779101",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531779101/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -3072,7 +3270,10 @@
         "assetId": "531114761",
         "assetUrl": "https://macaulaylibrary.org/asset/531114761",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531114761/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Nava Talav",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -3129,7 +3330,10 @@
         "assetId": "531777011",
         "assetUrl": "https://macaulaylibrary.org/asset/531777011",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777011/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -3152,7 +3356,10 @@
         "assetId": "531113721",
         "assetUrl": "https://macaulaylibrary.org/asset/531113721",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113721/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -3175,7 +3382,10 @@
         "assetId": "532326291",
         "assetUrl": "https://macaulaylibrary.org/asset/532326291",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532326291/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jalapahar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -3250,7 +3460,10 @@
         "assetId": "531114421",
         "assetUrl": "https://macaulaylibrary.org/asset/531114421",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531114421/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -3273,7 +3486,10 @@
         "assetId": "501545011",
         "assetUrl": "https://macaulaylibrary.org/asset/501545011",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501545011/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -3314,7 +3530,10 @@
         "assetId": "504299311",
         "assetUrl": "https://macaulaylibrary.org/asset/504299311",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504299311/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -3405,7 +3624,10 @@
         "assetId": "501567491",
         "assetUrl": "https://macaulaylibrary.org/asset/501567491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501567491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Kirstenbosch Botanical Garden",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -3428,7 +3650,10 @@
         "assetId": "533893101",
         "assetUrl": "https://macaulaylibrary.org/asset/533893101",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533893101/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -3451,7 +3676,10 @@
         "assetId": "531123931",
         "assetUrl": "https://macaulaylibrary.org/asset/531123931",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531123931/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Madrid--Parque El Retiro",
+        "countryCode": "ES",
+        "regionCode": "ES-MD"
       }
     },
     {
@@ -3474,7 +3702,10 @@
         "assetId": "533855681",
         "assetUrl": "https://macaulaylibrary.org/asset/533855681",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533855681/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -3498,7 +3729,10 @@
         "assetId": "530810731",
         "assetUrl": "https://macaulaylibrary.org/asset/530810731",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810731/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -3538,7 +3772,10 @@
         "assetId": "533891771",
         "assetUrl": "https://macaulaylibrary.org/asset/533891771",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533891771/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -3561,7 +3798,10 @@
         "assetId": "411977261",
         "assetUrl": "https://macaulaylibrary.org/asset/411977261",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/411977261/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -3584,7 +3824,10 @@
         "assetId": "531123811",
         "assetUrl": "https://macaulaylibrary.org/asset/531123811",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531123811/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Madrid--Parque El Retiro",
+        "countryCode": "ES",
+        "regionCode": "ES-MD"
       }
     },
     {
@@ -3609,7 +3852,10 @@
         "assetId": "531123671",
         "assetUrl": "https://macaulaylibrary.org/asset/531123671",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531123671/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Madrid--Parque El Retiro",
+        "countryCode": "ES",
+        "regionCode": "ES-MD"
       }
     },
     {
@@ -3650,7 +3896,10 @@
         "assetId": "533887781",
         "assetUrl": "https://macaulaylibrary.org/asset/533887781",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533887781/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -3809,7 +4058,10 @@
         "assetId": "618877837",
         "assetUrl": "https://macaulaylibrary.org/asset/618877837",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877837/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -3850,7 +4102,10 @@
         "assetId": "618878081",
         "assetUrl": "https://macaulaylibrary.org/asset/618878081",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878081/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -3873,7 +4128,10 @@
         "assetId": "531776861",
         "assetUrl": "https://macaulaylibrary.org/asset/531776861",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531776861/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -3964,7 +4222,10 @@
         "assetId": "583467281",
         "assetUrl": "https://macaulaylibrary.org/asset/583467281",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/583467281/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Deepor Beel--Waste Management Plant",
+        "countryCode": "IN",
+        "regionCode": "IN-AS"
       }
     },
     {
@@ -3987,7 +4248,10 @@
         "assetId": "531745911",
         "assetUrl": "https://macaulaylibrary.org/asset/531745911",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745911/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -4044,7 +4308,10 @@
         "assetId": "618877770",
         "assetUrl": "https://macaulaylibrary.org/asset/618877770",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877770/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -4102,7 +4369,10 @@
         "assetId": "618878101",
         "assetUrl": "https://macaulaylibrary.org/asset/618878101",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878101/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -4161,7 +4431,10 @@
         "assetId": "592866941",
         "assetUrl": "https://macaulaylibrary.org/asset/592866941",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/592866941/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sessa",
+        "countryCode": "IN",
+        "regionCode": "IN-AR"
       }
     },
     {
@@ -4184,7 +4457,10 @@
         "assetId": "501569031",
         "assetUrl": "https://macaulaylibrary.org/asset/501569031",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501569031/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Boulders Beach",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -4207,7 +4483,10 @@
         "assetId": "530810621",
         "assetUrl": "https://macaulaylibrary.org/asset/530810621",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810621/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -4247,7 +4526,10 @@
         "assetId": "531745881",
         "assetUrl": "https://macaulaylibrary.org/asset/531745881",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745881/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -4270,7 +4552,10 @@
         "assetId": "533856761",
         "assetUrl": "https://macaulaylibrary.org/asset/533856761",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533856761/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -4327,7 +4612,10 @@
         "assetId": "531112261",
         "assetUrl": "https://macaulaylibrary.org/asset/531112261",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112261/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -4367,7 +4655,10 @@
         "assetId": "583467291",
         "assetUrl": "https://macaulaylibrary.org/asset/583467291",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/583467291/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Deepor Beel--Waste Management Plant",
+        "countryCode": "IN",
+        "regionCode": "IN-AS"
       }
     },
     {
@@ -4392,7 +4683,10 @@
         "assetId": "530383471",
         "assetUrl": "https://macaulaylibrary.org/asset/530383471",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383471/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -4415,7 +4709,10 @@
         "assetId": "531113471",
         "assetUrl": "https://macaulaylibrary.org/asset/531113471",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113471/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Entry",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -4438,7 +4735,10 @@
         "assetId": "531082701",
         "assetUrl": "https://macaulaylibrary.org/asset/531082701",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531082701/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -4461,7 +4761,10 @@
         "assetId": "531776691",
         "assetUrl": "https://macaulaylibrary.org/asset/531776691",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531776691/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -4484,7 +4787,10 @@
         "assetId": "531112381",
         "assetUrl": "https://macaulaylibrary.org/asset/531112381",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112381/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -4507,7 +4813,10 @@
         "assetId": "531112291",
         "assetUrl": "https://macaulaylibrary.org/asset/531112291",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112291/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -4564,7 +4873,10 @@
         "assetId": "531778921",
         "assetUrl": "https://macaulaylibrary.org/asset/531778921",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778921/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -4587,7 +4899,10 @@
         "assetId": "612324535",
         "assetUrl": "https://macaulaylibrary.org/asset/612324535",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612324535/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -4662,7 +4977,10 @@
         "assetId": "618878005",
         "assetUrl": "https://macaulaylibrary.org/asset/618878005",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878005/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -4686,7 +5004,10 @@
         "assetId": "618878091",
         "assetUrl": "https://macaulaylibrary.org/asset/618878091",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878091/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -4709,7 +5030,10 @@
         "assetId": "533889141",
         "assetUrl": "https://macaulaylibrary.org/asset/533889141",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533889141/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -4749,7 +5073,10 @@
         "assetId": "533890651",
         "assetUrl": "https://macaulaylibrary.org/asset/533890651",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533890651/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -4892,7 +5219,10 @@
         "assetId": "618878064",
         "assetUrl": "https://macaulaylibrary.org/asset/618878064",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878064/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -4915,7 +5245,10 @@
         "assetId": "532321601",
         "assetUrl": "https://macaulaylibrary.org/asset/532321601",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532321601/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gorumara Wildlife Sanctuary, Darjeeling IN-WB 26.88846, 88.39693",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5041,7 +5374,10 @@
         "assetId": "531777371",
         "assetUrl": "https://macaulaylibrary.org/asset/531777371",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777371/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -5064,7 +5400,10 @@
         "assetId": "531745621",
         "assetUrl": "https://macaulaylibrary.org/asset/531745621",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745621/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5088,7 +5427,10 @@
         "assetId": "531082441",
         "assetUrl": "https://macaulaylibrary.org/asset/531082441",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531082441/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5265,7 +5607,10 @@
         "assetId": "533887161",
         "assetUrl": "https://macaulaylibrary.org/asset/533887161",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533887161/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5288,7 +5633,10 @@
         "assetId": "612326249",
         "assetUrl": "https://macaulaylibrary.org/asset/612326249",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612326249/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gunung Mahawu (roadsides 1,000-1,300m)",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -5311,7 +5659,10 @@
         "assetId": "501565981",
         "assetUrl": "https://macaulaylibrary.org/asset/501565981",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501565981/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Boulders Beach",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -5334,7 +5685,10 @@
         "assetId": "531778381",
         "assetUrl": "https://macaulaylibrary.org/asset/531778381",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778381/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekkad Bird Sanctuary--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -5374,7 +5728,10 @@
         "assetId": "532314141",
         "assetUrl": "https://macaulaylibrary.org/asset/532314141",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532314141/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lamahatta",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5397,7 +5754,10 @@
         "assetId": "618878023",
         "assetUrl": "https://macaulaylibrary.org/asset/618878023",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878023/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -5420,7 +5780,10 @@
         "assetId": "530793051",
         "assetUrl": "https://macaulaylibrary.org/asset/530793051",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530793051/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Neora Jungle Camp",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5443,7 +5806,10 @@
         "assetId": "592867041",
         "assetUrl": "https://macaulaylibrary.org/asset/592867041",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/592867041/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sessa",
+        "countryCode": "IN",
+        "regionCode": "IN-AR"
       }
     },
     {
@@ -5517,7 +5883,10 @@
         "assetId": "618878029",
         "assetUrl": "https://macaulaylibrary.org/asset/618878029",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618878029/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -5591,7 +5960,10 @@
         "assetId": "533894001",
         "assetUrl": "https://macaulaylibrary.org/asset/533894001",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533894001/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5614,7 +5986,10 @@
         "assetId": "662735944",
         "assetUrl": "https://macaulaylibrary.org/asset/662735944",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662735944/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Pristine Beach Resort",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -5655,7 +6030,10 @@
         "assetId": "533856011",
         "assetUrl": "https://macaulaylibrary.org/asset/533856011",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533856011/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5678,7 +6056,10 @@
         "assetId": "531777821",
         "assetUrl": "https://macaulaylibrary.org/asset/531777821",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777821/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Eravikulam NP--Checkpost",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -5701,7 +6082,10 @@
         "assetId": "531777911",
         "assetUrl": "https://macaulaylibrary.org/asset/531777911",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777911/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Eravikulam NP--Checkpost",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -5724,7 +6108,10 @@
         "assetId": "501517881",
         "assetUrl": "https://macaulaylibrary.org/asset/501517881",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501517881/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Shokaliya",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5764,7 +6151,10 @@
         "assetId": "530384101",
         "assetUrl": "https://macaulaylibrary.org/asset/530384101",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530384101/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5787,7 +6177,10 @@
         "assetId": "501544341",
         "assetUrl": "https://macaulaylibrary.org/asset/501544341",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501544341/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5810,7 +6203,10 @@
         "assetId": "504299491",
         "assetUrl": "https://macaulaylibrary.org/asset/504299491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504299491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5835,7 +6231,10 @@
         "assetId": "531856171",
         "assetUrl": "https://macaulaylibrary.org/asset/531856171",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531856171/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jhalana Safari Park",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5858,7 +6257,10 @@
         "assetId": "531078531",
         "assetUrl": "https://macaulaylibrary.org/asset/531078531",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531078531/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rajarhat Wetland--Canal side only",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -5899,7 +6301,10 @@
         "assetId": "535124741",
         "assetUrl": "https://macaulaylibrary.org/asset/535124741",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/535124741/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tadoba Andhari Tiger Reserve",
+        "countryCode": "IN",
+        "regionCode": "IN-MH"
       }
     },
     {
@@ -5922,7 +6327,10 @@
         "assetId": "501543421",
         "assetUrl": "https://macaulaylibrary.org/asset/501543421",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501543421/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5945,7 +6353,10 @@
         "assetId": "533856621",
         "assetUrl": "https://macaulaylibrary.org/asset/533856621",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533856621/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -5968,7 +6379,10 @@
         "assetId": "531778251",
         "assetUrl": "https://macaulaylibrary.org/asset/531778251",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778251/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rajmalai National Park, Munnar IN-KL 10.06819, 77.06785",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -6008,7 +6422,10 @@
         "assetId": "501517751",
         "assetUrl": "https://macaulaylibrary.org/asset/501517751",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501517751/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Shokaliya",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6032,7 +6449,10 @@
         "assetId": "533891211",
         "assetUrl": "https://macaulaylibrary.org/asset/533891211",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533891211/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6055,7 +6475,10 @@
         "assetId": "533858321",
         "assetUrl": "https://macaulaylibrary.org/asset/533858321",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533858321/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Gaushala Area",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6078,7 +6501,10 @@
         "assetId": "501517401",
         "assetUrl": "https://macaulaylibrary.org/asset/501517401",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501517401/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Shokaliya",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6187,7 +6613,10 @@
         "assetId": "533857601",
         "assetUrl": "https://macaulaylibrary.org/asset/533857601",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533857601/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6244,7 +6673,10 @@
         "assetId": "612325431",
         "assetUrl": "https://macaulaylibrary.org/asset/612325431",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325431/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -6318,7 +6750,10 @@
         "assetId": "530375831",
         "assetUrl": "https://macaulaylibrary.org/asset/530375831",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530375831/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6341,7 +6776,10 @@
         "assetId": "531778341",
         "assetUrl": "https://macaulaylibrary.org/asset/531778341",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778341/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekkad Bird Sanctuary--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -6381,7 +6819,10 @@
         "assetId": "501565181",
         "assetUrl": "https://macaulaylibrary.org/asset/501565181",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501565181/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Boulders Beach",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -6421,7 +6862,10 @@
         "assetId": "411975131",
         "assetUrl": "https://macaulaylibrary.org/asset/411975131",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/411975131/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6444,7 +6888,10 @@
         "assetId": "531857601",
         "assetUrl": "https://macaulaylibrary.org/asset/531857601",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531857601/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jhalana Safari Park",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6637,7 +7084,10 @@
         "assetId": "531113511",
         "assetUrl": "https://macaulaylibrary.org/asset/531113511",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113511/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Entry",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -6660,7 +7110,9 @@
         "assetId": "501517381",
         "assetUrl": "https://macaulaylibrary.org/asset/501517381",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501517381/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6683,7 +7135,10 @@
         "assetId": "533856651",
         "assetUrl": "https://macaulaylibrary.org/asset/533856651",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533856651/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6723,7 +7178,10 @@
         "assetId": "531745591",
         "assetUrl": "https://macaulaylibrary.org/asset/531745591",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745591/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6763,7 +7221,10 @@
         "assetId": "532321591",
         "assetUrl": "https://macaulaylibrary.org/asset/532321591",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532321591/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gorumara Wildlife Sanctuary, Darjeeling IN-WB 26.88846, 88.39693",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6786,7 +7247,10 @@
         "assetId": "530383491",
         "assetUrl": "https://macaulaylibrary.org/asset/530383491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6827,7 +7291,10 @@
         "assetId": "531745871",
         "assetUrl": "https://macaulaylibrary.org/asset/531745871",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745871/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6852,7 +7319,10 @@
         "assetId": "612325883",
         "assetUrl": "https://macaulaylibrary.org/asset/612325883",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325883/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lake Linow",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -6876,7 +7346,10 @@
         "assetId": "530810561",
         "assetUrl": "https://macaulaylibrary.org/asset/530810561",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810561/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6916,7 +7389,10 @@
         "assetId": "530811201",
         "assetUrl": "https://macaulaylibrary.org/asset/530811201",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530811201/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -6956,7 +7432,10 @@
         "assetId": "533857711",
         "assetUrl": "https://macaulaylibrary.org/asset/533857711",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533857711/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -6996,7 +7475,10 @@
         "assetId": "533893341",
         "assetUrl": "https://macaulaylibrary.org/asset/533893341",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533893341/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -7036,7 +7518,10 @@
         "assetId": "618877941",
         "assetUrl": "https://macaulaylibrary.org/asset/618877941",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877941/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -7060,7 +7545,10 @@
         "assetId": "533856881",
         "assetUrl": "https://macaulaylibrary.org/asset/533856881",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533856881/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -7083,7 +7571,10 @@
         "assetId": "592867231",
         "assetUrl": "https://macaulaylibrary.org/asset/592867231",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/592867231/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sessa",
+        "countryCode": "IN",
+        "regionCode": "IN-AR"
       }
     },
     {
@@ -7123,7 +7614,10 @@
         "assetId": "531777031",
         "assetUrl": "https://macaulaylibrary.org/asset/531777031",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777031/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7146,7 +7640,9 @@
         "assetId": "531113161",
         "assetUrl": "https://macaulaylibrary.org/asset/531113161",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113161/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -7169,7 +7665,10 @@
         "assetId": "531778511",
         "assetUrl": "https://macaulaylibrary.org/asset/531778511",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778511/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7192,7 +7691,10 @@
         "assetId": "531778501",
         "assetUrl": "https://macaulaylibrary.org/asset/531778501",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778501/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7232,7 +7734,10 @@
         "assetId": "531778491",
         "assetUrl": "https://macaulaylibrary.org/asset/531778491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7255,7 +7760,10 @@
         "assetId": "531777621",
         "assetUrl": "https://macaulaylibrary.org/asset/531777621",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777621/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7312,7 +7820,10 @@
         "assetId": "531123601",
         "assetUrl": "https://macaulaylibrary.org/asset/531123601",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531123601/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Madrid--Parque El Retiro",
+        "countryCode": "ES",
+        "regionCode": "ES-MD"
       }
     },
     {
@@ -7403,7 +7914,10 @@
         "assetId": "411975211",
         "assetUrl": "https://macaulaylibrary.org/asset/411975211",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/411975211/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -7477,7 +7991,10 @@
         "assetId": "662738276",
         "assetUrl": "https://macaulaylibrary.org/asset/662738276",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738276/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -7517,7 +8034,10 @@
         "assetId": "531777891",
         "assetUrl": "https://macaulaylibrary.org/asset/531777891",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777891/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Eravikulam NP--Checkpost",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7575,7 +8095,10 @@
         "assetId": "531112031",
         "assetUrl": "https://macaulaylibrary.org/asset/531112031",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112031/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -7615,7 +8138,10 @@
         "assetId": "501567151",
         "assetUrl": "https://macaulaylibrary.org/asset/501567151",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501567151/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Kirstenbosch Botanical Garden",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -7638,7 +8164,10 @@
         "assetId": "530792951",
         "assetUrl": "https://macaulaylibrary.org/asset/530792951",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530792951/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Ravangla",
+        "countryCode": "IN",
+        "regionCode": "IN-SK"
       }
     },
     {
@@ -7661,7 +8190,10 @@
         "assetId": "612325460",
         "assetUrl": "https://macaulaylibrary.org/asset/612325460",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325460/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -7684,7 +8216,10 @@
         "assetId": "531776481",
         "assetUrl": "https://macaulaylibrary.org/asset/531776481",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531776481/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -7707,7 +8242,10 @@
         "assetId": "592867151",
         "assetUrl": "https://macaulaylibrary.org/asset/592867151",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/592867151/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sessa",
+        "countryCode": "IN",
+        "regionCode": "IN-AR"
       }
     },
     {
@@ -7730,7 +8268,10 @@
         "assetId": "530383891",
         "assetUrl": "https://macaulaylibrary.org/asset/530383891",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383891/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -7804,7 +8345,10 @@
         "assetId": "531118491",
         "assetUrl": "https://macaulaylibrary.org/asset/531118491",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531118491/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gate No.2 of Okhla Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-UP"
       }
     },
     {
@@ -7861,7 +8405,10 @@
         "assetId": "532326231",
         "assetUrl": "https://macaulaylibrary.org/asset/532326231",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532326231/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jalapahar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -7886,7 +8433,10 @@
         "assetId": "662738369",
         "assetUrl": "https://macaulaylibrary.org/asset/662738369",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738369/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -7909,7 +8459,10 @@
         "assetId": "531745941",
         "assetUrl": "https://macaulaylibrary.org/asset/531745941",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745941/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -7949,7 +8502,10 @@
         "assetId": "612325886",
         "assetUrl": "https://macaulaylibrary.org/asset/612325886",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325886/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lake Linow",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -7972,7 +8528,10 @@
         "assetId": "531078541",
         "assetUrl": "https://macaulaylibrary.org/asset/531078541",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531078541/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rajarhat Wetland--Canal side only",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8012,7 +8571,10 @@
         "assetId": "501517261",
         "assetUrl": "https://macaulaylibrary.org/asset/501517261",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501517261/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Shokaliya",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -8036,7 +8598,10 @@
         "assetId": "531112241",
         "assetUrl": "https://macaulaylibrary.org/asset/531112241",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112241/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -8059,7 +8624,10 @@
         "assetId": "531777801",
         "assetUrl": "https://macaulaylibrary.org/asset/531777801",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777801/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Eravikulam NP--Checkpost",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -8082,7 +8650,10 @@
         "assetId": "532325051",
         "assetUrl": "https://macaulaylibrary.org/asset/532325051",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532325051/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gorumara Wildlife Sanctuary, Darjeeling IN-WB 26.88846, 88.39693",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8105,7 +8676,10 @@
         "assetId": "662722156",
         "assetUrl": "https://macaulaylibrary.org/asset/662722156",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662722156/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sabari, Middle Andaman",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -8162,7 +8736,10 @@
         "assetId": "531113281",
         "assetUrl": "https://macaulaylibrary.org/asset/531113281",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113281/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Vachchhraj Beyt",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -8185,7 +8762,10 @@
         "assetId": "531113961",
         "assetUrl": "https://macaulaylibrary.org/asset/531113961",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113961/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -8208,7 +8788,10 @@
         "assetId": "531833701",
         "assetUrl": "https://macaulaylibrary.org/asset/531833701",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531833701/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8249,7 +8832,10 @@
         "assetId": "533886031",
         "assetUrl": "https://macaulaylibrary.org/asset/533886031",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533886031/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -8272,7 +8858,10 @@
         "assetId": "531777931",
         "assetUrl": "https://macaulaylibrary.org/asset/531777931",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777931/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Eravikulam NP--Checkpost",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -8330,7 +8919,10 @@
         "assetId": "531112971",
         "assetUrl": "https://macaulaylibrary.org/asset/531112971",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112971/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -8353,7 +8945,10 @@
         "assetId": "612325524",
         "assetUrl": "https://macaulaylibrary.org/asset/612325524",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325524/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -8410,7 +9005,10 @@
         "assetId": "618877867",
         "assetUrl": "https://macaulaylibrary.org/asset/618877867",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877867/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -8485,7 +9083,10 @@
         "assetId": "504294881",
         "assetUrl": "https://macaulaylibrary.org/asset/504294881",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504294881/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8576,7 +9177,10 @@
         "assetId": "531779721",
         "assetUrl": "https://macaulaylibrary.org/asset/531779721",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531779721/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -8650,7 +9254,10 @@
         "assetId": "501512411",
         "assetUrl": "https://macaulaylibrary.org/asset/501512411",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501512411/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -8673,7 +9280,10 @@
         "assetId": "411981221",
         "assetUrl": "https://macaulaylibrary.org/asset/411981221",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/411981221/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rajarhat Wetland--Canal side only",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8696,7 +9306,10 @@
         "assetId": "533855321",
         "assetUrl": "https://macaulaylibrary.org/asset/533855321",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533855321/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -8736,7 +9349,10 @@
         "assetId": "618877519",
         "assetUrl": "https://macaulaylibrary.org/asset/618877519",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877519/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -8827,7 +9443,10 @@
         "assetId": "531745601",
         "assetUrl": "https://macaulaylibrary.org/asset/531745601",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745601/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8935,7 +9554,10 @@
         "assetId": "530375641",
         "assetUrl": "https://macaulaylibrary.org/asset/530375641",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530375641/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8958,7 +9580,10 @@
         "assetId": "531745691",
         "assetUrl": "https://macaulaylibrary.org/asset/531745691",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745691/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -8981,7 +9606,10 @@
         "assetId": "531776941",
         "assetUrl": "https://macaulaylibrary.org/asset/531776941",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531776941/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -9004,7 +9632,10 @@
         "assetId": "501569281",
         "assetUrl": "https://macaulaylibrary.org/asset/501569281",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501569281/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Boulders Beach",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -9044,7 +9675,10 @@
         "assetId": "531112861",
         "assetUrl": "https://macaulaylibrary.org/asset/531112861",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112861/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -9067,7 +9701,10 @@
         "assetId": "618877924",
         "assetUrl": "https://macaulaylibrary.org/asset/618877924",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877924/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -9090,7 +9727,10 @@
         "assetId": "501542781",
         "assetUrl": "https://macaulaylibrary.org/asset/501542781",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501542781/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9113,7 +9753,9 @@
         "assetId": "533886301",
         "assetUrl": "https://macaulaylibrary.org/asset/533886301",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533886301/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9153,7 +9795,10 @@
         "assetId": "530375191",
         "assetUrl": "https://macaulaylibrary.org/asset/530375191",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530375191/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9193,7 +9838,10 @@
         "assetId": "533857221",
         "assetUrl": "https://macaulaylibrary.org/asset/533857221",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533857221/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9216,7 +9864,10 @@
         "assetId": "530810471",
         "assetUrl": "https://macaulaylibrary.org/asset/530810471",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810471/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9256,7 +9907,10 @@
         "assetId": "531082501",
         "assetUrl": "https://macaulaylibrary.org/asset/531082501",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531082501/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9279,7 +9933,10 @@
         "assetId": "531866791",
         "assetUrl": "https://macaulaylibrary.org/asset/531866791",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531866791/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9319,7 +9976,10 @@
         "assetId": "532326271",
         "assetUrl": "https://macaulaylibrary.org/asset/532326271",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532326271/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jalapahar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9344,7 +10004,10 @@
         "assetId": "530378031",
         "assetUrl": "https://macaulaylibrary.org/asset/530378031",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530378031/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9367,7 +10030,10 @@
         "assetId": "530383551",
         "assetUrl": "https://macaulaylibrary.org/asset/530383551",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530383551/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9543,7 +10209,10 @@
         "assetId": "532314731",
         "assetUrl": "https://macaulaylibrary.org/asset/532314731",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532314731/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Mahananda WLS--Latpanchar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9566,7 +10235,10 @@
         "assetId": "501543011",
         "assetUrl": "https://macaulaylibrary.org/asset/501543011",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501543011/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9759,7 +10431,10 @@
         "assetId": "501544391",
         "assetUrl": "https://macaulaylibrary.org/asset/501544391",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501544391/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9816,7 +10491,10 @@
         "assetId": "501545081",
         "assetUrl": "https://macaulaylibrary.org/asset/501545081",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501545081/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9839,7 +10517,10 @@
         "assetId": "532314011",
         "assetUrl": "https://macaulaylibrary.org/asset/532314011",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532314011/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lamahatta",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9862,7 +10543,10 @@
         "assetId": "532316021",
         "assetUrl": "https://macaulaylibrary.org/asset/532316021",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532316021/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Mahananda WLS--Latpanchar",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -9919,7 +10603,10 @@
         "assetId": "531856481",
         "assetUrl": "https://macaulaylibrary.org/asset/531856481",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531856481/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jhalana Safari Park",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -9959,7 +10646,10 @@
         "assetId": "531113611",
         "assetUrl": "https://macaulaylibrary.org/asset/531113611",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113611/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Entry",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -9999,7 +10689,10 @@
         "assetId": "531114751",
         "assetUrl": "https://macaulaylibrary.org/asset/531114751",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531114751/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Nava Talav",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -10158,7 +10851,10 @@
         "assetId": "531113231",
         "assetUrl": "https://macaulaylibrary.org/asset/531113231",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113231/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Vachchhraj Beyt",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -10181,7 +10877,10 @@
         "assetId": "501542851",
         "assetUrl": "https://macaulaylibrary.org/asset/501542851",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501542851/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -10221,7 +10920,10 @@
         "assetId": "530810841",
         "assetUrl": "https://macaulaylibrary.org/asset/530810841",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810841/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -10312,7 +11014,9 @@
         "assetId": "612325417",
         "assetUrl": "https://macaulaylibrary.org/asset/612325417",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325417/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -10335,7 +11039,10 @@
         "assetId": "531777461",
         "assetUrl": "https://macaulaylibrary.org/asset/531777461",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777461/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -10358,7 +11065,10 @@
         "assetId": "630105134",
         "assetUrl": "https://macaulaylibrary.org/asset/630105134",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/630105134/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Aquila Safari Private Game Reserve",
+        "countryCode": "ZA",
+        "regionCode": "ZA-WC"
       }
     },
     {
@@ -10432,7 +11142,10 @@
         "assetId": "504298921",
         "assetUrl": "https://macaulaylibrary.org/asset/504298921",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504298921/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rabindra Sarobar--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -10506,7 +11219,10 @@
         "assetId": "533856151",
         "assetUrl": "https://macaulaylibrary.org/asset/533856151",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533856151/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -10529,7 +11245,10 @@
         "assetId": "531777441",
         "assetUrl": "https://macaulaylibrary.org/asset/531777441",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777441/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -10569,7 +11288,10 @@
         "assetId": "531778991",
         "assetUrl": "https://macaulaylibrary.org/asset/531778991",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778991/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekad Bird Sanctuary--Urulanthanni",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -10593,7 +11315,10 @@
         "assetId": "531112321",
         "assetUrl": "https://macaulaylibrary.org/asset/531112321",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112321/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -10616,7 +11341,10 @@
         "assetId": "504268251",
         "assetUrl": "https://macaulaylibrary.org/asset/504268251",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/504268251/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Chintamani Kar Bird Sanctuary (CKBS)",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -10691,7 +11419,10 @@
         "assetId": "592867121",
         "assetUrl": "https://macaulaylibrary.org/asset/592867121",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/592867121/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sessa",
+        "countryCode": "IN",
+        "regionCode": "IN-AR"
       }
     },
     {
@@ -10748,7 +11479,10 @@
         "assetId": "583467311",
         "assetUrl": "https://macaulaylibrary.org/asset/583467311",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/583467311/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Deepor Beel--Waste Management Plant",
+        "countryCode": "IN",
+        "regionCode": "IN-AS"
       }
     },
     {
@@ -10788,7 +11522,10 @@
         "assetId": "592866991",
         "assetUrl": "https://macaulaylibrary.org/asset/592866991",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/592866991/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Sessa",
+        "countryCode": "IN",
+        "regionCode": "IN-AR"
       }
     },
     {
@@ -10862,7 +11599,10 @@
         "assetId": "612326253",
         "assetUrl": "https://macaulaylibrary.org/asset/612326253",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612326253/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gunung Mahawu (roadsides 1,000-1,300m)",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -11123,7 +11863,10 @@
         "assetId": "612326245",
         "assetUrl": "https://macaulaylibrary.org/asset/612326245",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612326245/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gunung Mahawu (roadsides 1,000-1,300m)",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -11163,7 +11906,10 @@
         "assetId": "612326246",
         "assetUrl": "https://macaulaylibrary.org/asset/612326246",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612326246/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gunung Mahawu (roadsides 1,000-1,300m)",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -11203,7 +11949,10 @@
         "assetId": "530378151",
         "assetUrl": "https://macaulaylibrary.org/asset/530378151",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530378151/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11244,7 +11993,10 @@
         "assetId": "530811271",
         "assetUrl": "https://macaulaylibrary.org/asset/530811271",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530811271/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11301,7 +12053,10 @@
         "assetId": "530378111",
         "assetUrl": "https://macaulaylibrary.org/asset/530378111",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530378111/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Lions Safari Park, Kolkata IN-WB 22.51201, 88.35790",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11324,7 +12079,10 @@
         "assetId": "411981251",
         "assetUrl": "https://macaulaylibrary.org/asset/411981251",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/411981251/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Rajarhat Wetland--Canal side only",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11347,7 +12105,10 @@
         "assetId": "530810551",
         "assetUrl": "https://macaulaylibrary.org/asset/530810551",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/530810551/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gajoldoba Teesta Barrage",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11370,7 +12131,10 @@
         "assetId": "612326251",
         "assetUrl": "https://macaulaylibrary.org/asset/612326251",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612326251/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gunung Mahawu (roadsides 1,000-1,300m)",
+        "countryCode": "ID",
+        "regionCode": "ID-SL"
       }
     },
     {
@@ -11428,7 +12192,10 @@
         "assetId": "532325821",
         "assetUrl": "https://macaulaylibrary.org/asset/532325821",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532325821/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gorumara Wildlife Sanctuary, Darjeeling IN-WB 26.88846, 88.39693",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11451,7 +12218,10 @@
         "assetId": "531777351",
         "assetUrl": "https://macaulaylibrary.org/asset/531777351",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777351/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -11474,7 +12244,10 @@
         "assetId": "618877810",
         "assetUrl": "https://macaulaylibrary.org/asset/618877810",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877810/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -11548,7 +12321,10 @@
         "assetId": "662738364",
         "assetUrl": "https://macaulaylibrary.org/asset/662738364",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738364/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -11571,7 +12347,10 @@
         "assetId": "531112951",
         "assetUrl": "https://macaulaylibrary.org/asset/531112951",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531112951/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Creek",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -11594,7 +12373,10 @@
         "assetId": "531113591",
         "assetUrl": "https://macaulaylibrary.org/asset/531113591",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531113591/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Bajana Entry",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -11617,7 +12399,10 @@
         "assetId": "532327001",
         "assetUrl": "https://macaulaylibrary.org/asset/532327001",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/532327001/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Chowk Bazar, Darjeeling IN-WB 27.04610, 88.26811",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11657,7 +12442,10 @@
         "assetId": "541405781",
         "assetUrl": "https://macaulaylibrary.org/asset/541405781",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/541405781/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Ruby Crossing",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -11748,7 +12536,10 @@
         "assetId": "531777841",
         "assetUrl": "https://macaulaylibrary.org/asset/531777841",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777841/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Eravikulam NP--Checkpost",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -11805,7 +12596,10 @@
         "assetId": "535124661",
         "assetUrl": "https://macaulaylibrary.org/asset/535124661",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/535124661/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tadoba Andhari Tiger Reserve",
+        "countryCode": "IN",
+        "regionCode": "IN-MH"
       }
     },
     {
@@ -11828,7 +12622,10 @@
         "assetId": "612325392",
         "assetUrl": "https://macaulaylibrary.org/asset/612325392",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325392/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -11851,7 +12648,10 @@
         "assetId": "501546401",
         "assetUrl": "https://macaulaylibrary.org/asset/501546401",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501546401/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Keetap (General)",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -11925,7 +12725,10 @@
         "assetId": "531777281",
         "assetUrl": "https://macaulaylibrary.org/asset/531777281",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531777281/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Munnar--Nullatanni KFD Dormitory",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -11982,7 +12785,10 @@
         "assetId": "533857151",
         "assetUrl": "https://macaulaylibrary.org/asset/533857151",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533857151/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -12141,7 +12947,10 @@
         "assetId": "531114841",
         "assetUrl": "https://macaulaylibrary.org/asset/531114841",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531114841/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Little Rann of Kachchh--Nava Talav",
+        "countryCode": "IN",
+        "regionCode": "IN-GJ"
       }
     },
     {
@@ -12199,7 +13008,10 @@
         "assetId": "618877957",
         "assetUrl": "https://macaulaylibrary.org/asset/618877957",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877957/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bajoon",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -12224,7 +13036,10 @@
         "assetId": "533887461",
         "assetUrl": "https://macaulaylibrary.org/asset/533887461",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533887461/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Salt Pans",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -12281,7 +13096,10 @@
         "assetId": "531745831",
         "assetUrl": "https://macaulaylibrary.org/asset/531745831",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531745831/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Purbasthali Bird Sanctuary PUB",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     },
     {
@@ -12321,7 +13139,10 @@
         "assetId": "662738218",
         "assetUrl": "https://macaulaylibrary.org/asset/662738218",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662738218/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Narcondam Island",
+        "countryCode": "IN",
+        "regionCode": "IN-AN"
       }
     },
     {
@@ -12395,7 +13216,10 @@
         "assetId": "501552171",
         "assetUrl": "https://macaulaylibrary.org/asset/501552171",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501552171/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Kunzum Pass, Spiti",
+        "countryCode": "IN",
+        "regionCode": "IN-HP"
       }
     },
     {
@@ -12435,7 +13259,10 @@
         "assetId": "618877757",
         "assetUrl": "https://macaulaylibrary.org/asset/618877757",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618877757/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Land's End Trail",
+        "countryCode": "IN",
+        "regionCode": "IN-UL"
       }
     },
     {
@@ -12475,7 +13302,10 @@
         "assetId": "531778451",
         "assetUrl": "https://macaulaylibrary.org/asset/531778451",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531778451/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Thattekkad Bird Sanctuary--General Area",
+        "countryCode": "IN",
+        "regionCode": "IN-KL"
       }
     },
     {
@@ -12498,7 +13328,10 @@
         "assetId": "533858281",
         "assetUrl": "https://macaulaylibrary.org/asset/533858281",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533858281/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Tal Chhapar WLS--Gaushala Area",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -12521,7 +13354,10 @@
         "assetId": "612325376",
         "assetUrl": "https://macaulaylibrary.org/asset/612325376",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612325376/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Bali Barat NP--Cekik (headquarter office, camping area and forest around)",
+        "countryCode": "ID",
+        "regionCode": "ID-NU"
       }
     },
     {
@@ -12561,7 +13397,10 @@
         "assetId": "533894441",
         "assetUrl": "https://macaulaylibrary.org/asset/533894441",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/533894441/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Jorbeer Vulture Conservation Centre",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -12584,7 +13423,10 @@
         "assetId": "531118141",
         "assetUrl": "https://macaulaylibrary.org/asset/531118141",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531118141/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Gate No.2 of Okhla Sanctuary",
+        "countryCode": "IN",
+        "regionCode": "IN-UP"
       }
     },
     {
@@ -12692,7 +13534,10 @@
         "assetId": "501517441",
         "assetUrl": "https://macaulaylibrary.org/asset/501517441",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/501517441/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Shokaliya",
+        "countryCode": "IN",
+        "regionCode": "IN-RJ"
       }
     },
     {
@@ -12732,7 +13577,10 @@
         "assetId": "531082901",
         "assetUrl": "https://macaulaylibrary.org/asset/531082901",
         "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/531082901/640",
-        "credit": "Sayantan Ghosh"
+        "credit": "Sayantan Ghosh",
+        "locationName": "Baruipur Marshes",
+        "countryCode": "IN",
+        "regionCode": "IN-WB"
       }
     }
   ],
