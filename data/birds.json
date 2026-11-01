@@ -2,9 +2,9 @@
   "profileId": "MjI5NzQ0MA",
   "contributorId": "2297440",
   "owner": "Sayantan Ghosh",
-  "lastCountrySync": "2026-10-01T10:14:05.144167+00:00",
+  "lastCountrySync": "2026-11-01T10:34:06.797402+00:00",
   "lastObservationSync": "2026-09-27T15:36:11.286694+00:00",
-  "lastPhotoSync": "2026-10-01T10:14:05.144167+00:00",
+  "lastPhotoSync": "2026-11-01T10:34:06.797402+00:00",
   "observationsComplete": true,
   "photoStatus": "public-api-snapshot",
   "countries": [
@@ -11858,16 +11858,7 @@
       "firstSeenRegion": "ID-SL",
       "regions": [
         "ID-SL"
-      ],
-      "photo": {
-        "assetId": "612326245",
-        "assetUrl": "https://macaulaylibrary.org/asset/612326245",
-        "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/612326245/640",
-        "credit": "Sayantan Ghosh",
-        "locationName": "Gunung Mahawu (roadsides 1,000-1,300m)",
-        "countryCode": "ID",
-        "regionCode": "ID-SL"
-      }
+      ]
     },
     {
       "name": "Sunda Scops-Owl",
@@ -13595,6 +13586,7 @@
     "Cory's/Scopoli's Shearwater",
     "Eastern Red-rumped Swallow (Daurian)",
     "Lisu Wren-Babbler (undescribed form)",
+    "Sulawesi Cuckoo-Dove",
     "White-browed Shrike-Babbler (Himalayan)"
   ],
   "regions": {
